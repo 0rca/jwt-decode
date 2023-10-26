@@ -8,3 +8,11 @@ Decode JWTs from command-line
 cabal install jwt-decode
 ```
 
+## Usage
+
+```sh
+jwt-decode
+<paste your JWT here>
+<press Ctrl-D>
+```
+
